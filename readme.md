@@ -1,26 +1,26 @@
-#HTML Base - WIP
+# HTML Base - WIP
 
-##Installation
+## Installation
 
 1. Clone the repo: `git clone git@github.com:dmordine/starter_app.git`
 2. Install dependencies: `npm install`
 
 
-##Usage - DEV
+## Usage - DEV
 
 - Start watching the files
 
   $ npm run dev
 
 
-##Usage - PROD
+## Usage - PROD
 
 - Build the dist folder
 
   $ npm run prod
 
 
-##Features
+## Features
 
 - [Gulp](https://gulpjs.com) as task runner
 - [Babel](https://babeljs.io) as JS compiler
