@@ -1,0 +1,41 @@
+///*------------------------------------*\
+//    #RESET
+//\*------------------------------------*/
+
+// Reset css on top of Normalize
+
+
+body,
+h1, h2, h3, h4, h5, h6,
+blockquote, p, pre,
+dl, dd, ol, ul,
+figure,
+hr,
+fieldset, legend {
+  margin: 0;
+  padding: 0;
+}
+
+article,
+aside,
+footer,
+header,
+nav,
+section,
+main,
+figure, figcaption {
+  display: block;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+hr {
+  height: 0;
+}
+
+a {
+  -webkit-tap-highlight-color: transparent;
+}

@@ -1,0 +1,14 @@
+///*------------------------------------*\
+//    #WRAPPER
+//\*------------------------------------*/
+
+.o-wrapper {
+  @include clearfix();
+  margin: 0 auto;
+  max-width: 1024px;
+
+  @media #{$mq-md} {
+    padding-right: $global-spacing;
+    padding-left:  $global-spacing;
+  }
+}

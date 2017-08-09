@@ -1,0 +1,70 @@
+///*------------------------------------*\
+//    #GLOBAL
+//\*------------------------------------*/
+
+///
+// CONTENTS
+//
+// Brand................Base brand definitions.
+// Typography...........Basic typography settings.
+// Responsive...........Define breakpoint sizes and what they’re called.
+// Paths................Defines paths for various assets.
+ //
+
+
+
+
+
+// Brand
+// ========================================================================== */
+
+$brand-color: #BADA55;
+$brand-radius: 3px;
+
+
+
+
+
+// Responsive
+// ========================================================================== */
+
+$mq-sm: screen and (max-width: 480px);
+$mq-md: screen and (max-width: 720px);
+$mq-lg: screen and (max-width: 1024px);
+$mq-xl: screen and (max-width: 1280px);
+$mq-hr: screen and (max-width: 1920px);
+
+
+
+
+
+// Typography
+// ========================================================================== */
+
+$global-font-size: 18px;
+$global-line-height: 1.5em;
+
+$global-font-size-h1: 48px;
+$global-font-size-h2: 36px;
+$global-font-size-h3: 27px;
+$global-font-size-h4: 19px;
+
+
+
+
+
+// Paths
+// ========================================================================== */
+
+$asset-path: '/assets/';
+$font-path: '/assets/fonts/';
+$image-path: '/assets/img/';
+
+
+
+
+
+// Spacings
+// ========================================================================== */
+
+$global-spacing: 20px; // defines padding space
